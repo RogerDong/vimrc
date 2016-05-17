@@ -22,6 +22,7 @@ Plugin 'tomtom/tcomment_vim'
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
 Plugin 'molokai' 
+Plugin 'Solarized'
 Plugin 'taglist.vim'
 Plugin 'Auto-Pairs'
 " Git plugin not hosted on GitHub
